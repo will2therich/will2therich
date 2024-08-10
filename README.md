@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=will2therich&theme=dark&hide_border=true" alt="will2therich's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will2therich&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="will2therich's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=will2therich&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="will2therich's GitHub Stats" />
- [![GitHub Streak](https://streak-stats.demolab.com?user=will2therich&theme=dark)](https://git.io/streak-stats) 
 
 
 <picture>
