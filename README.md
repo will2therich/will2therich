@@ -28,8 +28,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/will2therich/will2therich/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/will2therich/will2therich/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/will2therich/will2therich/output/github-contribution-grid-snake.svg">
+
 </picture>
 
+  <img width="100%" align="left" src="https://wakatime.com/share/@be6a7952-977b-4456-9418-957ed8ca40b9/c763d457-c39a-41dc-b1cb-18fb3c1aa71d.svg" />
 
 <a href="https://www.linkedin.com/company/86895307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/weblabstechnologies" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
